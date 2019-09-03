@@ -11,7 +11,6 @@ class Person:
         print("Name: " + self.name)
         print("Score: " + str(self.score))
         print("Strategy: " + str(self.strategy))
-        #print("Draw: " + str(self.draws ))
         print()
         
     def isValid(self):
